@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Vibrowtion</string>
+    <string name="ble_not_supported">Your device does not support BLE.</string>
+    <string name="button_continue">Continue</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="disconnected_gatt">Disconnected from GATT, please reconnect.</string>
+    <string name="error_bluetooth_not_supported">Your device does not support Bluetooth.</string>
+    <string name="location_disabled">Location is disabled, scanner will not work.</string>
+    <string name="location_grant">GRANT</string>
+    <string name="location_permission_text">To allow the app to scan for Bluetooth Low Energy devices we need to approximate your location. Without granting us permission to use your location information the scanner will not work.</string>
+    <string name="location_permission_title">Location Permission Request</string>
+    <string name="peripheral_not_found">Peripheral could not be found. Make sure that the peripheral is active and try to scan again.</string>
+    <string name="scanner_offline">Scanner offline</string>
+    <string name="scanning">Scanning...</string>
+    <string name="unknown_characteristic">Unknown characteristic</string>
+    <string name="unknown_device">Unknown device</string>
+    <string name="unknown_service">Unknown service</string>
+</resources>
